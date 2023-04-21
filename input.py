@@ -6,5 +6,5 @@ a = input("Enter number 1:")
 b = input("Enter number 2:")
 a = int(a)
 b = int(b)
-avg = (a+b)/2
+avg = (a + b) / 2
 print(avg)
